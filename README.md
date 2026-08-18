@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Transformando ideias e problemas reais em soluções digitais.
+  Transformando problemas reais em soluções digitais.
 </p>
 
 <p align="center">
@@ -18,11 +18,18 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software.
+💻 Sou apaixonado por **tecnologia, programação e desenvolvimento de software**.
 
 Gosto de transformar problemas do mundo real em sistemas simples, úteis e eficientes.
 
-Atualmente estou sempre buscando evoluir meus conhecimentos em desenvolvimento web, arquitetura de sistemas, bancos de dados e novas tecnologias.
+Atualmente, estou focado em evoluir meus conhecimentos em:
+
+- 🌐 Desenvolvimento Web
+- 🏗️ Arquitetura de Sistemas
+- 🗄️ Bancos de Dados
+- 🔌 APIs e Integrações
+- ☁️ Deploy e Infraestrutura
+- 🤖 Inteligência Artificial
 
 > 💡 **Código bom não é apenas aquele que funciona. É aquele que resolve um problema.**
 
@@ -34,11 +41,19 @@ Atualmente estou sempre buscando evoluir meus conhecimentos em desenvolvimento w
 
 ### 💻 Desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,react" />
+<img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,react,nodejs" />
 
-### 🗄️ Banco de Dados & Infraestrutura
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,docker,git,github" />
+### 🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+
+<br><br>
+
+### ⚙️ Ferramentas & Infraestrutura
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
 
 </div>
 
@@ -48,43 +63,100 @@ Atualmente estou sempre buscando evoluir meus conhecimentos em desenvolvimento w
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itiagop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<a href="https://github.com/itiagop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itiagop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itiagop&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itiagop&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/itiagop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itiagop&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+---
+
+## 🧠 O que eu faço
 
 <div align="center">
 
-<a href="https://github.com/itiagop/advogado">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itiagop&repo=advogado&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+<tr>
+<td width="33%" align="center">
 
-<a href="https://github.com/itiagop/comunica-myrna">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itiagop&repo=comunica-myrna&theme=tokyonight&hide_border=true" />
-</a>
+### 💻 Desenvolvimento
+
+Desenvolvimento de aplicações web modernas, APIs e sistemas corporativos.
+
+**PHP • Laravel • JavaScript • React • Node.js**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🗄️ Dados & Backend
+
+Construção de soluções robustas trabalhando com bancos relacionais, integrações e regras de negócio.
+
+**Oracle • PostgreSQL • MySQL • SQL Server**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Soluções Digitais
+
+Transformo problemas reais em ferramentas simples, eficientes e fáceis de usar.
+
+**Automação • APIs • IA • Acessibilidade**
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
+---
+
+## ⚡ Em constante evolução
 
 <div align="center">
 
-<a href="https://github.com/itiagop?tab=repositories">
-  <img src="https://img.shields.io/badge/📂%20Ver%20todos%20os%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+🔹 Arquitetura de Software  
+🔹 Desenvolvimento Web  
+🔹 APIs REST  
+🔹 Inteligência Artificial  
+🔹 Banco de Dados  
+🔹 Docker & Containers  
+🔹 Git & GitHub  
+🔹 Cloud & Deploy  
+
+</div>
+
+---
+
+## 🎯 Minha forma de pensar
+
+<div align="center">
+
+> **"Antes de escrever código, entenda o problema."**
+
+<br>
+
+Problema → 💡 Ideia → 🧠 Solução → 💻 Código → 🚀 Resultado
+
+</div>
+
+## 💡 O que eu gosto de construir
+
+<div align="center">
+
+| 🌐 Sistemas Web | 🤖 Soluções com IA | 📱 Aplicações |
+|:---:|:---:|:---:|
+| Sistemas corporativos | Automação | Aplicativos |
+| APIs REST | Integrações | Acessibilidade |
+| Dashboards | Chatbots | Soluções digitais |
 
 </div>
 
@@ -120,6 +192,14 @@ Atualmente estou sempre buscando evoluir meus conhecimentos em desenvolvimento w
 
 <br>
 
-![Snake animation](https://github.com/itiagop/itiagop/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/itiagop/itiagop/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Se algum projeto meu for útil para você, considere deixar uma estrela!
 
 </div>
